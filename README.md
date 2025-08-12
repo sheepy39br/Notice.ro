@@ -11,14 +11,14 @@
 ## 🛠 Cerințe
 - WordPress 5.0+  
 - WooCommerce 4.0+  
-- Cont activ pe https://notice.ro  
+- Cont activ pe www.notice.ro  
 - PHP 7.2+  
 - Extensia PHP `curl` activată
 
 ## 📥 Instalare
-1. Descarcă arhiva plugin-ului sau clonează repository-ul:
-2.Încarcă plugin-ul în folderul wp-content/plugins/.
-3.Activează plugin-ul din WordPress Admin → Plugin-uri.
+1. Descarcă arhiva plugin-ului sau clonează repository-ul:<br>
+2.Încarcă plugin-ul în folderul wp-content/plugins/.<br>
+3.Activează plugin-ul din WordPress Admin → Plugin-uri.<br>
 4.Accesează Notice.ro pentru configurare.
 
 ⚙️ Configurare
