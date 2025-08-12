@@ -16,13 +16,13 @@
 - Extensia PHP `curl` activată
 
 ## 📥 Instalare
-1. Descarcă arhiva plugin-ului sau clonează repository-ul:<br>
+1.Descarcă arhiva plugin-ului sau clonează repository-ul:<br>
 2.Încarcă plugin-ul în folderul wp-content/plugins/.<br>
 3.Activează plugin-ul din WordPress Admin → Plugin-uri.<br>
 4.Accesează Notice.ro pentru configurare.
 
 ⚙️ Configurare
-Introdu  PI Key-ul furnizat de Notice.ro.
+Introdu API Key-ul furnizat de Notice.ro.
 Selectează statusurile comenzilor pentru care vrei să trimiți SMS-uri.
 Asociază fiecare status cu un template din contul Notice.ro.
 Salvează setările.
@@ -33,6 +33,7 @@ Plugin-ul nu trimite SMS-uri fără API Key valid și template-uri asociate.
 
 📄 Licență
 Acest proiect este licențiat sub GPL-2.0+.
+
 Ești liber să:
 - utilizezi codul în proiecte personale sau comerciale,
 - modifici și distribui codul,
